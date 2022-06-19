@@ -1,0 +1,19 @@
+{
+  "name": "@husey/test_repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KNAccount/test_repository.git"
+  },
+  "author": "husey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KNAccount/test_repository/issues"
+  },
+  "homepage": "https://github.com/KNAccount/test_repository#readme"
+}
